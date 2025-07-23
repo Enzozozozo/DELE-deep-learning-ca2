@@ -1,6 +1,0 @@
-Epoch: 3
-Generator Loss: 1.3788
-Discriminator Loss: 1.0243
-Precision: 0.7319
-Recall: 0.6719
-FID: 497192.5524

@@ -1,0 +1,30 @@
+Epoch 3:
+Generator Loss: 1.4626
+Discriminator Loss: 0.9801
+Precision: 0.9225, Recall: 0.7020
+FID: 200725.4037
+--------
+Epoch 3:
+Generator Loss: 0.9265
+Discriminator Loss: 1.2552
+Precision: 0.8619, Recall: 0.7430
+FID: 126606.7957
+--------
+Epoch 3:
+Generator Loss: 0.8957
+Discriminator Loss: 1.2669
+Precision: 0.6730, Recall: 0.7120
+FID: 100953.6684
+--------
+Epoch 3:
+Generator Loss: 0.8800
+Discriminator Loss: 1.2629
+Precision: 0.6465, Recall: 0.5760
+FID: 73595.0666
+--------
+Epoch 3:
+Generator Loss: 0.8894
+Discriminator Loss: 1.2549
+Precision: 0.5174, Recall: 0.6380
+FID: 108031.4890
+--------
